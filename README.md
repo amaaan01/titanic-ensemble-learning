@@ -53,10 +53,9 @@ The project uses the Titanic dataset, which contains passenger information such 
 
 ```text
 titanic-ensemble-learning/
-│
 ├── Titanic_Ensemble_Learning.ipynb
-├── titanic.csv
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## Key Learning Outcomes
